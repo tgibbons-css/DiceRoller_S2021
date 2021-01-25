@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
     TextView tvDieValue;
     Dice die;
 
+    // sample comment
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
